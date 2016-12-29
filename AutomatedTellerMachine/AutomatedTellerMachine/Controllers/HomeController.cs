@@ -31,8 +31,7 @@ namespace AutomatedTellerMachine.Controllers
 
         public ActionResult Foo()
         {
-
-
+            return View();
         }
     }
 }
